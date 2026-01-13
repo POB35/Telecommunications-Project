@@ -5,5 +5,11 @@ The purpose of this project is to analyze call records from the virtual telephon
 
 The goal is to generate reliable and actionable insights that allow supervisors to improve team management and optimize service quality.
 
+## Data Source
+The analysis is based on the following CSV files:
+
+- `data/telecom_clients_us.csv`: Contains client-level information used in the analysis.
+- `data/telecom_dataset_us.csv`: Contains detailed call records, including call status, duration, and timestamps.
+
 ## Tools Used
 - 
