@@ -14,4 +14,13 @@ The analysis is based on the following CSV files:
 *Note: Large CSV files may not render in GitHub preview. Please use the download or raw link.
 
 ## Tools Used
-- 
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+- scipy
+- scipy.stats
+- statsmodels.api
+  
