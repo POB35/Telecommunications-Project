@@ -8,8 +8,8 @@ The goal is to generate reliable and actionable insights that allow supervisors 
 ## Data Source
 The analysis is based on the following CSV files:
 
-- `data/telecom_clients_us.csv`: Contains client-level information used in the analysis.
-- `data/telecom_dataset_us.csv`: Contains detailed call records, including call status, duration, and timestamps.
+- [Clients data]('data/telecom_clients_us.csv'): Contains client-level information used in the analysis.
+- [Call records data]('data/telecom_dataset_us.csv'): Contains detailed call records, including call status, duration, and timestamps.
 
 ## Tools Used
 - 
